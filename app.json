@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "helloworld_expo",
-    "slug": "helloworld_expo",
+    "name": "GameFourInARow",
+    "slug": "GameFourInARow",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
